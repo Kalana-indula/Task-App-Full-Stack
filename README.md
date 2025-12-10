@@ -3,7 +3,7 @@
 This is a full-stack To-Do application built with:
 
 - **Backend:** Spring Boot (Java 25 , Spring Boot 4)
-- **Frontend:** Vite + React (served by Nginx)
+- **Frontend:** Vite + React 
 - **Styling:** Tailwind CSS 
 - **Database:** MySQL 8
 - **Containerization:** Docker & Docker Compose
