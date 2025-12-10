@@ -83,6 +83,14 @@ Nginx is configured to:
   ```
 This allows the frontend to simply call `/api/...` without hardcoding backend URLs.
 
+## Video 
+This video shows how the app is run an used after creating a container
+https://www.youtube.com/watch?v=4hk8Za5UOBU
+
+## UI of the app
+<img width="1600" height="1338" alt="screen" src="https://github.com/user-attachments/assets/95ef809b-28ad-4e7a-844e-19f0b198e3f6" />
+<img width="1600" height="1280" alt="screen" src="https://github.com/user-attachments/assets/76dbe1cb-f6b1-4087-8b2f-1482bbed65d8" />
+
 ## 🔧 Useful Docker Commands
 Start the stack:
 
